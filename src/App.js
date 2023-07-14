@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -46,11 +46,7 @@ function App() {
           <p className="section__subtitle section__subtitle--intro">
             Full-Stack Developer
           </p>
-          <img
-            src="img/luis.jpeg"
-            alt="a picture of Luis Granda"
-            className="intro__img"
-          />
+          <img src="img/luis.jpeg" alt="Luis Granda " className="intro__img" />
         </section>
 
         {/* <!-- My services --> */}
@@ -158,7 +154,11 @@ function App() {
               className="portfolio__item"
               target="_blank"
             >
-              <img src="img/meme-generator.jpg" alt="" className="portfolio__img" />
+              <img
+                src="img/meme-generator.jpg"
+                alt=""
+                className="portfolio__img"
+              />
             </a>
 
             {/* <!-- Portfolio item 05 --> */}
@@ -180,7 +180,11 @@ function App() {
               className="portfolio__item"
               target="_blank"
             >
-              <img src="img/experiences.png" alt="" className="portfolio__img" />
+              <img
+                src="img/experiences.png"
+                alt=""
+                className="portfolio__img"
+              />
             </a>
 
             {/* <!-- Portfolio item 07 --> */}
@@ -188,6 +192,7 @@ function App() {
               href="https://investigacion-utpl.netlify.app/"
               className="portfolio__item"
               target="_blank"
+              rel="noopener noreferrer"
             >
               <img
                 src="img/investigadores-utpl.png"
@@ -206,7 +211,10 @@ function App() {
           </a>
           <ul className="social-list">
             <li className="social-list__item">
-              <a className="social-list__link" href="https://codepen.io/ferluchin">
+              <a
+                className="social-list__link"
+                href="https://codepen.io/ferluchin"
+              >
                 <i className="fab fa-codepen"></i>
               </a>
             </li>
@@ -221,7 +229,10 @@ function App() {
               </a>
             </li>
             <li className="social-list__item">
-              <a className="social-list__link" href="https://github.com/ferluchin">
+              <a
+                className="social-list__link"
+                href="https://github.com/ferluchin"
+              >
                 <i className="fab fa-github"></i>
               </a>
             </li>
