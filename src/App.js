@@ -86,7 +86,7 @@ function App() {
         <section className="about-me" id="about">
           <h2 className="section__title section__title--about">Who I am</h2>
           <p className="section__subtitle section__subtitle--about">
-            Front-End Developer and dog lover from Loja
+            Front-End Developer & designer based out of Loja
           </p>
 
           <div className="about-me__body">
@@ -97,8 +97,7 @@ function App() {
               Tailwind CSS, and Styled Components.
             </p>
             <p>
-              When I'm not coding, you can find me playing with my dog, or
-              reading a good book.
+              When I'm not coding, I enjoy travelling around my country. 
             </p>
           </div>
 
@@ -118,6 +117,33 @@ function App() {
 
           <div className="portfolio">
             {/* <!-- Portfolio item 01 --> */}
+            <a
+              href="https://investigacion-utpl.netlify.app/"
+              className="portfolio__item"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="img/investigadores-utpl.png"
+                alt=""
+                className="portfolio__img"
+              />
+            </a>
+
+            {/* <!-- Portfolio item 02 --> */}
+            <a
+              href="https://sg-ascendere.liidutpl.ec/"
+              className="portfolio__item"
+                target="_blank" rel="noopener noreferrer"
+            >
+              <img
+                src="img/sistema-ascendere.png"
+                alt=""
+                className="portfolio__img"
+              />
+            </a>
+
+            {/* <!-- Portfolio item 02 --> */}
             <a href="index.html" className="portfolio__item" target="_blank">
               <img
                 src="img/oldagram-square.png"
@@ -126,7 +152,7 @@ function App() {
               />
             </a>
 
-            {/* <!-- Portfolio item 02 --> */}
+            {/* <!-- Portfolio item 03 --> */}
             <a
               href="portfolio-item.html"
               className="portfolio__item"
@@ -135,7 +161,7 @@ function App() {
               <img src="img/tenzies.jpg" alt="" className="portfolio__img" />
             </a>
 
-            {/* <!-- Portfolio item 03 --> */}
+            {/* <!-- Portfolio item 04 --> */}
             <a
               href="portfolio-item.html"
               className="portfolio__item"
@@ -148,7 +174,7 @@ function App() {
               />
             </a>
 
-            {/* <!-- Portfolio item 04 --> */}
+            {/* <!-- Portfolio item 05 --> */}
             <a
               href="portfolio-item.html"
               className="portfolio__item"
@@ -161,7 +187,7 @@ function App() {
               />
             </a>
 
-            {/* <!-- Portfolio item 05 --> */}
+            {/* <!-- Portfolio item 06 --> */}
             <a
               href="portfolio-item.html"
               className="portfolio__item"
@@ -174,7 +200,7 @@ function App() {
               />
             </a>
 
-            {/* <!-- Portfolio item 06 --> */}
+            {/* <!-- Portfolio item 07 --> */}
             <a
               href="portfolio-item.html"
               className="portfolio__item"
@@ -182,20 +208,6 @@ function App() {
             >
               <img
                 src="img/experiences.png"
-                alt=""
-                className="portfolio__img"
-              />
-            </a>
-
-            {/* <!-- Portfolio item 07 --> */}
-            <a
-              href="https://investigacion-utpl.netlify.app/"
-              className="portfolio__item"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src="img/investigadores-utpl.png"
                 alt=""
                 className="portfolio__img"
               />
