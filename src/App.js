@@ -131,11 +131,9 @@ function App() {
                     <p className="section__subtitle section__subtitle--work">
                         A selection of my range of work
                     </p>
-
                     <h3 className="section__subtitle section__subtitle--work">
                         Work Projects
                     </h3>
-
                     <div className="portfolio">
                         {/* <!-- Portfolio item 01 --> */}
                         <a
@@ -182,7 +180,21 @@ function App() {
                     <h3 className="section__subtitle section__subtitle--work">
                         Personal Projects
                     </h3>
+                    {/* quizzical-react-luis-granda */}
                     <div className="portfolio">
+                        {/* <!-- Portfolio item Quizzical --> */}
+                        <a
+                            href="quizzical-item.html"
+                            className="portfolio__item"
+                            target="_blank"
+                        >
+                            <img
+                                src="img/quizzical.png"
+                                alt=""
+                                className="portfolio__img"
+                            />
+                        </a>
+
                         {/* <!-- Portfolio item 03 --> */}
                         <a
                             href="tenzies-item.html"
