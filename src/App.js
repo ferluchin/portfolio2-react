@@ -154,7 +154,7 @@ function App() {
 
             {/* <!-- Portfolio item 03 --> */}
             <a
-              href="portfolio-item.html"
+              href="tenzies-item.html"
               className="portfolio__item"
               target="_blank"
             >
@@ -200,9 +200,9 @@ function App() {
               />
             </a>
 
-            {/* <!-- Portfolio item 07 --> */}
+            {/* <!-- Portfolio item 07  airbnb --> */}
             <a
-              href="portfolio-item.html"
+              href="airbnb-item.html"
               className="portfolio__item"
               target="_blank"
             >
