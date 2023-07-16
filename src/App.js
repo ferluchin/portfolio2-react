@@ -196,6 +196,19 @@ function App() {
                             />
                         </a>
 
+                        {/* <!-- Portfolio item airbnb --> */}
+                        <a
+                            href="airbnb-item.html"
+                            className="portfolio__item"
+                            target="_blank"
+                        >
+                            <img
+                                src="img/experiences.png"
+                                alt=""
+                                className="portfolio__img"
+                            />
+                        </a>
+
                         {/* <!-- Portfolio item 04 --> */}
                         <a
                             href="portfolio-item.html"
@@ -230,19 +243,6 @@ function App() {
                         >
                             <img
                                 src="img/personal-dashboard.png"
-                                alt=""
-                                className="portfolio__img"
-                            />
-                        </a>
-
-                        {/* <!-- Portfolio item 07  airbnb --> */}
-                        <a
-                            href="airbnb-item.html"
-                            className="portfolio__item"
-                            target="_blank"
-                        >
-                            <img
-                                src="img/experiences.png"
                                 alt=""
                                 className="portfolio__img"
                             />
