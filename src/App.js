@@ -149,7 +149,7 @@ function App() {
                             />
                         </a>
 
-                        {/* <!-- Portfolio item 02 --> */}
+                        {/* <!-- Portfolio item PROYECTO ASCENDERE --> */}
                         <a
                             href="https://sg-ascendere.liidutpl.ec/"
                             className="portfolio__item"
@@ -163,14 +163,15 @@ function App() {
                             />
                         </a>
 
-                        {/* <!-- Portfolio item 02 --> */}
+                        {/* <!-- Portfolio item ioet landing page --> */}
                         <a
-                            href="index.html"
+                            href="https://www.ioet.com/"
                             className="portfolio__item"
                             target="_blank"
+                            rel="noreferrer"
                         >
                             <img
-                                src="img/oldagram-square.png"
+                                src="img/ioet.png"
                                 alt=""
                                 className="portfolio__img"
                             />
@@ -255,6 +256,32 @@ function App() {
                         >
                             <img
                                 src="img/meme-generator.jpg"
+                                alt=""
+                                className="portfolio__img"
+                            />
+                        </a>
+
+                        {/* <!-- Portfolio javascript RPG --> */}
+                        <a
+                            href="movie-pitch.html"
+                            className="portfolio__item"
+                            target="_blank"
+                        >
+                            <img
+                                src="img/movie-pitch.png"
+                                alt=""
+                                className="portfolio__img"
+                            />
+                        </a>
+
+                        {/* <!-- Portfolio item movie pitch --> */}
+                        <a
+                            href="movie-pitch.html"
+                            className="portfolio__item"
+                            target="_blank"
+                        >
+                            <img
+                                src="img/movie-pitch.png"
                                 alt=""
                                 className="portfolio__img"
                             />
