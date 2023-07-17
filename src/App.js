@@ -195,7 +195,7 @@ function App() {
                             />
                         </a>
 
-                        {/* <!-- Portfolio item 03 --> */}
+                        {/* <!-- Portfolio item Tenzies Game --> */}
                         <a
                             href="tenzies-item.html"
                             className="portfolio__item"
@@ -208,7 +208,7 @@ function App() {
                             />
                         </a>
 
-                        {/* <!-- Portfolio item airbnb --> */}
+                        {/* <!-- Portfolio item Airbnb Experience --> */}
                         <a
                             href="airbnb-item.html"
                             className="portfolio__item"
@@ -221,14 +221,14 @@ function App() {
                             />
                         </a>
 
-                        {/* <!-- Portfolio item 04 --> */}
+                        {/* <!-- Portfolio item Firebase App --> */}
                         <a
-                            href="portfolio-item.html"
+                            href="firebase-item.html"
                             className="portfolio__item"
                             target="_blank"
                         >
                             <img
-                                src="img/password-generator.jpg"
+                                src="img/firebase.png"
                                 alt=""
                                 className="portfolio__img"
                             />
@@ -236,7 +236,7 @@ function App() {
 
                         {/* <!-- Portfolio item 05 --> */}
                         <a
-                            href="portfolio-item.html"
+                            href="meme-generator.html"
                             className="portfolio__item"
                             target="_blank"
                         >
