@@ -234,7 +234,20 @@ function App() {
                             />
                         </a>
 
-                        {/* <!-- Portfolio item 05 --> */}
+                        {/* <!-- Portfolio item recommender-system --> */}
+                        <a
+                            href="recommender-item.html"
+                            className="portfolio__item"
+                            target="_blank"
+                        >
+                            <img
+                                src="img/recommender.png"
+                                alt=""
+                                className="portfolio__img"
+                            />
+                        </a>
+
+                        {/* <!-- Portfolio item meme-generator --> */}
                         <a
                             href="meme-generator.html"
                             className="portfolio__item"
@@ -242,19 +255,6 @@ function App() {
                         >
                             <img
                                 src="img/meme-generator.jpg"
-                                alt=""
-                                className="portfolio__img"
-                            />
-                        </a>
-
-                        {/* <!-- Portfolio item 06 --> */}
-                        <a
-                            href="portfolio-item.html"
-                            className="portfolio__item"
-                            target="_blank"
-                        >
-                            <img
-                                src="img/personal-dashboard.png"
                                 alt=""
                                 className="portfolio__img"
                             />
