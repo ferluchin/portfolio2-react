@@ -263,12 +263,12 @@ function App() {
 
                         {/* <!-- Portfolio javascript RPG --> */}
                         <a
-                            href="movie-pitch.html"
+                            href="javascript-rpg.html"
                             className="portfolio__item"
                             target="_blank"
                         >
                             <img
-                                src="img/movie-pitch.png"
+                                src="img/javascript-rpg.png"
                                 alt=""
                                 className="portfolio__img"
                             />
