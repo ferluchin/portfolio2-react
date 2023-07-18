@@ -247,7 +247,18 @@ function App() {
                                 className="portfolio__img"
                             />
                         </a>
-
+                        {/* <!-- Portfolio javascript RPG --> */}
+                        <a
+                            href="javascript-rpg.html"
+                            className="portfolio__item"
+                            target="_blank"
+                        >
+                            <img
+                                src="img/javascript-rpg.png"
+                                alt=""
+                                className="portfolio__img"
+                            />
+                        </a>
                         {/* <!-- Portfolio item meme-generator --> */}
                         <a
                             href="meme-generator.html"
@@ -261,18 +272,6 @@ function App() {
                             />
                         </a>
 
-                        {/* <!-- Portfolio javascript RPG --> */}
-                        <a
-                            href="javascript-rpg.html"
-                            className="portfolio__item"
-                            target="_blank"
-                        >
-                            <img
-                                src="img/javascript-rpg.png"
-                                alt=""
-                                className="portfolio__img"
-                            />
-                        </a>
 
                         {/* <!-- Portfolio item movie pitch --> */}
                         <a
