@@ -272,7 +272,6 @@ function App() {
                             />
                         </a>
 
-
                         {/* <!-- Portfolio item movie pitch --> */}
                         <a
                             href="movie-pitch.html"
@@ -285,6 +284,45 @@ function App() {
                                 className="portfolio__img"
                             />
                         </a>
+
+                        {/* <!-- Portfolio item Notes App --> */}
+                        {/* <a
+                            href="movie-pitch.html"
+                            className="portfolio__item"
+                            target="_blank"
+                        >
+                            <img
+                                src="img/movie-pitch.png"
+                                alt=""
+                                className="portfolio__img"
+                            />
+                        </a> */}
+
+                        {/* <!-- Portfolio item React Info Site --> */}
+                        {/* <a
+                            href="movie-pitch.html"
+                            className="portfolio__item"
+                            target="_blank"
+                        >
+                            <img
+                                src="img/movie-pitch.png"
+                                alt=""
+                                className="portfolio__img"
+                            />
+                        </a> */}
+
+                        {/* <!-- Portfolio item Advanced React #VANLIFE --> */}
+                        {/* <a
+                            href="movie-pitch.html"
+                            className="portfolio__item"
+                            target="_blank"
+                        >
+                            <img
+                                src="img/movie-pitch.png"
+                                alt=""
+                                className="portfolio__img"
+                            />
+                        </a> */}
                     </div>
                 </section>
 
