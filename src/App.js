@@ -1,4 +1,3 @@
-// import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -141,6 +140,7 @@ function App() {
                             className="portfolio__item"
                             target="_blank"
                             rel="noopener noreferrer"
+                            title="Investigadores UTPL"
                         >
                             <img
                                 src="img/investigadores-utpl.png"
