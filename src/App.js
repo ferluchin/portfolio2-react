@@ -142,11 +142,16 @@ function App() {
                             rel="noopener noreferrer"
                             title="Investigadores UTPL"
                         >
-                            <img
-                                src="img/investigadores-utpl.png"
-                                alt=""
-                                className="portfolio__img"
-                            />
+                            <div className="img-container">
+                                <img
+                                    src="img/investigadores-utpl.png"
+                                    alt="proyecto investigadores utpl"
+                                    className="portfolio__img"
+                                />
+                                <h3 className="hover-text">
+                                    Proyecto Investigadores UTPL
+                                </h3>
+                            </div>
                         </a>
 
                         {/* <!-- Portfolio item PROYECTO ASCENDERE --> */}
@@ -156,11 +161,16 @@ function App() {
                             target="_blank"
                             rel="noopener noreferrer"
                         >
-                            <img
-                                src="img/sistema-ascendere.png"
-                                alt=""
-                                className="portfolio__img"
-                            />
+                            <div className="img-container">
+                                <img
+                                    src="img/sistema-ascendere.png"
+                                    alt=""
+                                    className="portfolio__img"
+                                />
+                                <h3 className="hover-text">
+                                    Proyecto Registro Convocatorias UTPL
+                                </h3>
+                            </div>
                         </a>
 
                         {/* <!-- Portfolio item ioet landing page --> */}
@@ -170,11 +180,16 @@ function App() {
                             target="_blank"
                             rel="noreferrer"
                         >
-                            <img
-                                src="img/ioet.png"
-                                alt=""
-                                className="portfolio__img"
-                            />
+                            <div className="img-container">
+                                <img
+                                    src="img/ioet.png"
+                                    alt=""
+                                    className="portfolio__img"
+                                />
+                                <h3 className="hover-text">
+                                    Landing Page IOET
+                                </h3>
+                            </div>
                         </a>
                     </div>
                     <br />
@@ -189,11 +204,14 @@ function App() {
                             className="portfolio__item"
                             target="_blank"
                         >
-                            <img
-                                src="img/quizzical.png"
-                                alt=""
-                                className="portfolio__img"
-                            />
+                            <div className="img-container">
+                                <img
+                                    src="img/quizzical.png"
+                                    alt=""
+                                    className="portfolio__img"
+                                />
+                                <h3 className="hover-text">Quizzical</h3>
+                            </div>
                         </a>
 
                         {/* <!-- Portfolio item Tenzies Game --> */}
@@ -202,11 +220,14 @@ function App() {
                             className="portfolio__item"
                             target="_blank"
                         >
-                            <img
-                                src="img/tenzies.jpg"
-                                alt=""
-                                className="portfolio__img"
-                            />
+                            <div className="img-container">
+                                <img
+                                    src="img/tenzies.jpg"
+                                    alt=""
+                                    className="portfolio__img"
+                                />
+                                <h3 className="hover-text">Tenzies Game</h3>
+                            </div>
                         </a>
 
                         {/* <!-- Portfolio item Airbnb Experience --> */}
@@ -215,11 +236,16 @@ function App() {
                             className="portfolio__item"
                             target="_blank"
                         >
-                            <img
-                                src="img/experiences.png"
-                                alt=""
-                                className="portfolio__img"
-                            />
+                            <div className="img-container">
+                                <img
+                                    src="img/experiences.png"
+                                    alt=""
+                                    className="portfolio__img"
+                                />
+                                <h3 className="hover-text">
+                                    AirBnb Experience
+                                </h3>
+                            </div>
                         </a>
 
                         {/* <!-- Portfolio item Firebase App --> */}
@@ -228,11 +254,16 @@ function App() {
                             className="portfolio__item"
                             target="_blank"
                         >
-                            <img
-                                src="img/firebase.png"
-                                alt=""
-                                className="portfolio__img"
-                            />
+                            <div className="img-container">
+                                <img
+                                    src="img/firebase.png"
+                                    alt=""
+                                    className="portfolio__img"
+                                />
+                                <h3 className="hover-text">
+                                    Firebase Mobile App
+                                </h3>
+                            </div>
                         </a>
 
                         {/* <!-- Portfolio item recommender-system --> */}
@@ -241,11 +272,16 @@ function App() {
                             className="portfolio__item"
                             target="_blank"
                         >
-                            <img
-                                src="img/recommender.png"
-                                alt=""
-                                className="portfolio__img"
-                            />
+                            <div className="img-container">
+                                <img
+                                    src="img/recommender.png"
+                                    alt=""
+                                    className="portfolio__img"
+                                />
+                                <h3 className="hover-text">
+                                    Sistema Recomendador Python
+                                </h3>
+                            </div>
                         </a>
                         {/* <!-- Portfolio javascript RPG --> */}
                         <a
@@ -253,11 +289,16 @@ function App() {
                             className="portfolio__item"
                             target="_blank"
                         >
-                            <img
-                                src="img/javascript-rpg.png"
-                                alt=""
-                                className="portfolio__img"
-                            />
+                            <div className="img-container">
+                                <img
+                                    src="img/javascript-rpg.png"
+                                    alt=""
+                                    className="portfolio__img"
+                                />
+                                <h3 className="hover-text">
+                                    Javascript RPG Game
+                                </h3>
+                            </div>
                         </a>
                         {/* <!-- Portfolio item meme-generator --> */}
                         <a
@@ -265,11 +306,16 @@ function App() {
                             className="portfolio__item"
                             target="_blank"
                         >
-                            <img
-                                src="img/meme-generator.jpg"
-                                alt=""
-                                className="portfolio__img"
-                            />
+                            <div className="img-container">
+                                <img
+                                    src="img/meme-generator.jpg"
+                                    alt=""
+                                    className="portfolio__img"
+                                />
+                                <h3 className="hover-text">
+                                    React Meme Generator
+                                </h3>
+                            </div>
                         </a>
 
                         {/* <!-- Portfolio item movie pitch --> */}
@@ -278,11 +324,16 @@ function App() {
                             className="portfolio__item"
                             target="_blank"
                         >
-                            <img
-                                src="img/movie-pitch.png"
-                                alt=""
-                                className="portfolio__img"
-                            />
+                            <div className="img-container">
+                                <img
+                                    src="img/movie-pitch.png"
+                                    alt=""
+                                    className="portfolio__img"
+                                />
+                                <h3 className="hover-text">
+                                    Dall E Movie Pitch Generator
+                                </h3>
+                            </div>
                         </a>
 
                         {/* <!-- Portfolio item Notes App --> */}
