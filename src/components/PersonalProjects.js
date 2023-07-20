@@ -86,7 +86,7 @@ function Projects() {
                             className="portfolio__img"
                         />
                         <h3 className="hover-text">
-                            Sistema Recomendador Python
+                            Python Recommender System
                         </h3>
                     </div>
                 </a>

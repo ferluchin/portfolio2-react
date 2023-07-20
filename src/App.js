@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import Services from "./components/Services";
 import WorkProjects from "./components/WorkProjects";
 import PersonalProjects from "./components/PersonalProjects";
-import Contact from "./components/Contact";
+//import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
 function App() {
