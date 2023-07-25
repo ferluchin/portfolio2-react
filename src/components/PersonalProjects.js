@@ -38,7 +38,7 @@ function Projects() {
                             alt=""
                             className="portfolio__img"
                         />
-                        <h3 className="hover-text">Quizzical</h3>
+                        <h3 className="hover-text">Quizzical (React)</h3>
                     </div>
                 </a>
 
@@ -54,7 +54,7 @@ function Projects() {
                             alt=""
                             className="portfolio__img"
                         />
-                        <h3 className="hover-text">Tenzies Game</h3>
+                        <h3 className="hover-text">Tenzies Game (React)</h3>
                     </div>
                 </a>
 
@@ -70,7 +70,7 @@ function Projects() {
                             alt=""
                             className="portfolio__img"
                         />
-                        <h3 className="hover-text">AirBnb Experience</h3>
+                        <h3 className="hover-text">AirBnb Experience (React)</h3>
                     </div>
                 </a>
 
@@ -86,7 +86,9 @@ function Projects() {
                             alt=""
                             className="portfolio__img"
                         />
-                        <h3 className="hover-text">Firebase Mobile App</h3>
+                        <h3 className="hover-text">Firebase Mobile App
+                            (React)
+                        </h3>
                     </div>
                 </a>
 
@@ -134,7 +136,7 @@ function Projects() {
                             alt=""
                             className="portfolio__img"
                         />
-                        <h3 className="hover-text">React Meme Generator</h3>
+                        <h3 className="hover-text">Meme Generator (React)</h3>
                     </div>
                 </a>
 
@@ -152,6 +154,7 @@ function Projects() {
                         />
                         <h3 className="hover-text">
                             Dall E Movie Pitch Generator
+                            (React)
                         </h3>
                     </div>
                 </a>
