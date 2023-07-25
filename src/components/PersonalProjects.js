@@ -9,6 +9,23 @@ function Projects() {
             </h3>
             {/* quizzical-react-luis-granda */}
             <div className="portfolio">
+
+                {/* <!-- Portfolio item Video Game DB --> */}
+                <a
+                    href="videogame-db.html"
+                    className="portfolio__item"
+                    target="_blank"
+                >
+                    <div className="img-container">
+                        <img
+                            src="img/videogame-db.png"
+                            alt=""
+                            className="portfolio__img"
+                        />
+                        <h3 className="hover-text">VideoGame DB (Angular)</h3>
+                    </div>
+                </a>
+
                 {/* <!-- Portfolio item Quizzical --> */}
                 <a
                     href="quizzical-item.html"
