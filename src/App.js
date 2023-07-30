@@ -1,10 +1,10 @@
 import "./App.css";
-import Header from "./components/Header";
-import Services from "./components/Services";
-import WorkProjects from "./components/WorkProjects";
-import PersonalProjects from "./components/PersonalProjects";
+import Header from "./components/Header/Header";
+import Services from "./components/Services/Services";
+import WorkProjects from "./components/Work/WorkProjects";
+import PersonalProjects from "./components/Personal/PersonalProjects";
 //import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import Footer from "./components/Footer/Footer";
 
 function App() {
     return (
