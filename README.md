@@ -2,7 +2,7 @@
 
 This is my personal portfolio built using React. The site showcases my skills, services, and projects that I have worked on.
 
-Check the live demo here: [luis-granda-portafolio](https://luis-granda-portafolio-react.netlify.app/)
+Check the live demo here: [luis-granda-portafolio](https://lfgranda3.netlify.app/)
 
 ## Features
 
