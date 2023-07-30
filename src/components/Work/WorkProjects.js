@@ -26,9 +26,7 @@ function Projects() {
                             alt="proyecto investigadores utpl"
                             className="portfolio__img"
                         />
-                        <h3 className="hover-text">
-                            Proyecto Investigadores UTPL
-                        </h3>
+                        <h3 className="hover-text">UTPL Researchers Project</h3>
                     </div>
                 </a>
 
@@ -46,7 +44,7 @@ function Projects() {
                             className="portfolio__img"
                         />
                         <h3 className="hover-text">
-                            Proyecto Registro Convocatorias UTPL
+                            UTPL Project Registration System
                         </h3>
                     </div>
                 </a>
