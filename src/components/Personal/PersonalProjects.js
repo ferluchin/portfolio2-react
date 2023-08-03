@@ -9,7 +9,6 @@ function Projects() {
             </h3>
             {/* quizzical-react-luis-granda */}
             <div className="portfolio">
-
                 {/* <!-- Portfolio item Video Game DB --> */}
                 <a
                     href="videogame-db.html"
@@ -70,7 +69,9 @@ function Projects() {
                             alt=""
                             className="portfolio__img"
                         />
-                        <h3 className="hover-text">AirBnb Experience (React)</h3>
+                        <h3 className="hover-text">
+                            AirBnb Experience (React)
+                        </h3>
                     </div>
                 </a>
 
@@ -86,8 +87,8 @@ function Projects() {
                             alt=""
                             className="portfolio__img"
                         />
-                        <h3 className="hover-text">Firebase Mobile App
-                            (React)
+                        <h3 className="hover-text">
+                            Firebase Mobile App (React)
                         </h3>
                     </div>
                 </a>
@@ -153,8 +154,7 @@ function Projects() {
                             className="portfolio__img"
                         />
                         <h3 className="hover-text">
-                            Dall E Movie Pitch Generator
-                            (React)
+                            Dall E Movie Pitch Generator (React)
                         </h3>
                     </div>
                 </a>
@@ -191,17 +191,23 @@ function Projects() {
                         </a> */}
 
                 {/* <!-- Portfolio item Advanced React #VANLIFE --> */}
-                {/* <a
-                            href="movie-pitch.html"
-                            className="portfolio__item"
-                            target="_blank"
-                        >
-                            <img
-                                src="img/movie-pitch.png"
-                                alt=""
-                                className="portfolio__img"
-                            />
-                        </a> */}
+                {/*                 
+                <a
+                    href="movie-pitch.html"
+                    className="portfolio__item"
+                    target="_blank"
+                >
+                    <div className="img-container">
+                        <img
+                            src="img/markdown-notes.png"
+                            alt=""
+                            className="portfolio__img"
+                        />
+                        <h3 className="hover-text">
+                            Markdown Notes App(React)
+                        </h3>
+                    </div>
+                </a> */}
             </div>
         </div>
     );
