@@ -226,6 +226,24 @@ function Projects() {
                         </h3>
                     </div>
                 </a> */}
+
+                {/*                 
+                <a
+                    href="movie-pitch.html"
+                    className="portfolio__item"
+                    target="_blank"
+                >
+                    <div className="img-container">
+                        <img
+                            src="img/markdown-notes.png"
+                            alt=""
+                            className="portfolio__img"
+                        />
+                        <h3 className="hover-text">
+                            Markdown Notes App(React)
+                        </h3>
+                    </div>
+                </a> */}
             </div>
         </div>
     );
