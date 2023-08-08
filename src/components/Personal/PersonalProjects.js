@@ -161,13 +161,13 @@ function Projects() {
 
                 {/* <!-- Portfolio item Notes App --> */}
                 <a
-                    href="movie-pitch.html"
+                    href="markdown-notes.html"
                     className="portfolio__item"
                     target="_blank"
                 >
                     <div className="img-container">
                         <img
-                            src="img/markdown-notes.png"
+                            src="img/movie-pitch.png"
                             alt=""
                             className="portfolio__img"
                         />
