@@ -29,21 +29,29 @@ A portfolio of my recent work where you can see examples of my design and develo
 To run the portfolio site locally, follow these steps:
 
 1. Clone the repository:
+
     ```bash
     git clone https://github.com/[yourusername]/luis-granda-portfolio.git
     ```
+
 2. Navigate to the project folder:
+
     ```bash
     cd luis-granda-portfolio
     ```
+
 3. Install the dependencies:
+
     ```bash
     npm install
     ```
+
 4. Start the server:
+
     ```bash
     npm start
     ```
+
 5. The app will open in a new browser tab: [http://localhost:3000](http://localhost:3000)
 
 ## Contact Me
