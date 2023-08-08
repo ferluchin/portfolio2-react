@@ -167,7 +167,7 @@ function Projects() {
                 >
                     <div className="img-container">
                         <img
-                            src="img/movie-pitch.png"
+                            src="img/markdown.png"
                             alt=""
                             className="portfolio__img"
                         />
