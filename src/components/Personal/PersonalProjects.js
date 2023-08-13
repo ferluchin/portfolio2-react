@@ -177,6 +177,24 @@ function Projects() {
                     </div>
                 </a>
 
+                {/* <!-- Portfolio item Torre Test --> */}
+                <a
+                    href="torre-test.html"
+                    className="portfolio__item"
+                    target="_blank"
+                >
+                    <div className="img-container">
+                        <img
+                            src="img/torre.png"
+                            alt=""
+                            className="portfolio__img"
+                        />
+                        <h3 className="hover-text">
+                            Torre API test(React)
+                        </h3>
+                    </div>
+                </a>
+
                 {/* <!-- Portfolio item React Info Site --> */}
                 {/* <a
                             href="movie-pitch.html"
