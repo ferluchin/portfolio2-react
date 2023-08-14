@@ -552,3 +552,12 @@ header {
 .img-container:hover .hover-text {
     display: block;
 }
+
+.img-limited {
+    max-width: 500px;
+    max-height: 500px;
+    display: block;
+    /* para centrar la imagen si es necesario */
+    margin: 0 auto;
+    /* para centrar la imagen si es necesario */
+}
