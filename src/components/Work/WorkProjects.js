@@ -12,7 +12,24 @@ function Projects() {
                 Work Projects
             </h3>
             <div className="portfolio">
-                {/* <!-- Portfolio item 01 --> */}
+                {/* <!-- Portfolio item Torre --> */}
+                <a
+                    href="https://torre.ai/"
+                    className="portfolio__item"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    title="Torre.co Profile"
+                >
+                    <div className="img-container">
+                        <img
+                            src="img/torre-ai.png" // Asume que tienes una imagen llamada 'torre-co.png' en tu carpeta 'img'
+                            alt="Perfil en Torre.co"
+                            className="portfolio__img"
+                        />
+                        <h3 className="hover-text">Software Engineer at Torre.ai</h3>
+                    </div>
+                </a>
+                {/* <!-- Portfolio item UTPL --> */}
                 <a
                     href="https://investigacion-utpl.netlify.app/"
                     className="portfolio__item"
