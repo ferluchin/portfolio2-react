@@ -1,0 +1,19 @@
+.advent-calendar {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    /* Add more festive styling here */
+}
+
+.calendar-day {
+    padding: 10px;
+    background-color: #c0392b;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    /* More styling as needed */
+}

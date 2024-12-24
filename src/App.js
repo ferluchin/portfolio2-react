@@ -21,7 +21,7 @@ function App() {
                         Full-Stack Developer
                     </p>
                     <img
-                        src="img/luis.jpeg"
+                        src="img/luis-4.png"
                         alt="Luis Granda "
                         className="intro__img"
                     />
