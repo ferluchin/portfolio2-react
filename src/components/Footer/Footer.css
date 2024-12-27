@@ -1,0 +1,38 @@
+Footer.css
+.footer {
+    background-color: #282c34;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.footer__link {
+    display: block;
+    color: #61dafb;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+}
+
+.footer__link:hover {
+    text-decoration: underline;
+}
+
+.social-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding: 0;
+}
+
+.social-list__item {}
+
+.social-list__link {
+    color: #fff;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+.social-list__link:hover {
+    color: #61dafb;
+}
