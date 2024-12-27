@@ -1,61 +1,154 @@
 # Luis Granda Portfolio
 
-This is my personal portfolio built using React. The site showcases my skills, services, and projects that I have worked on.
+## English
 
-Check the live demo here: [luis-granda-portafolio](https://lfgranda3.netlify.app/)
+A personal portfolio built with React showcasing my skills, services, and recent projects. It features a responsive design, a functional contact form, and integration with external APIs to highlight full-stack capabilities.
 
-## Features
+**Live Demo**  
+[Visit live site](https://lfgranda3.netlify.app/)
 
-The portfolio site includes the following sections:
+---
 
-### Home
+### Features
 
-An introductory section where you can get a quick overview of who I am and what I do.
+- Showcase of personal and professional projects  
+- Responsive design using React and Tailwind CSS  
+- Functional contact form  
+- Integration with external APIs  
 
-### My Services
+---
 
-A section detailing the services I offer, including design and development with a focus on React JS, and Tailwind CSS.
+### Sections
 
-### About Me
+1. **Home**  
+   Quick overview of who I am and what I do.
 
-A brief background about myself, my specialties and what I do outside of coding.
+2. **My Services**  
+   Description of the services offered, focusing on React JS and Tailwind CSS.
 
-### My Projects
+3. **About Me**  
+   Brief background on my skills, specialties, and interests.
 
-A portfolio of my recent work where you can see examples of my design and development projects. Each project includes a direct link so you can explore each one in more detail.
+4. **My Projects**  
+   Gallery of recent work, each with a direct link for further exploration.
 
-## Installation & Setup
+---
 
-To run the portfolio site locally, follow these steps:
+### Technologies
 
-1. Clone the repository:
+- **React.js**  
+- **CSS** (Grid/Flexbox, Tailwind CSS)  
+- **JavaScript (ES6+)**  
+- **Firebase**  
+- **APIs** (External and custom)
 
+---
+
+### Installation & Setup
+
+1. **Clone the repository**:
     ```bash
     git clone https://github.com/[yourusername]/luis-granda-portfolio.git
     ```
 
-2. Navigate to the project folder:
-
+2. **Navigate to the project folder**:
     ```bash
     cd luis-granda-portfolio
     ```
 
-3. Install the dependencies:
-
+3. **Install dependencies**:
     ```bash
     npm install
     ```
 
-4. Start the server:
-
+4. **Start the development server**:
     ```bash
     npm start
     ```
 
-5. The app will open in a new browser tab: [http://localhost:3000](http://localhost:3000)
+5. The application will run at [http://localhost:3000](http://localhost:3000)
 
-## Contact Me
+---
 
-If you're interested in my work and want to discuss any opportunities, you can reach me through my email lgrandab@gmail.com or you can reach out to me through my social media channels which are available in the footer of the portfolio site.
+### Contact
 
-Feel free to explore and provide any feedback!
+For any inquiries or opportunities, reach out via email at **lgrandab@gmail.com** or through the social media links provided in the site’s footer.
+
+---
+
+## Español
+
+Un portafolio personal creado con React que muestra mis habilidades, servicios y proyectos recientes. Incluye un diseño responsivo, un formulario de contacto funcional e integración con APIs externas para demostrar las capacidades de desarrollo full-stack.
+
+**Demo en Vivo**  
+[Visitar sitio en vivo](https://lfgranda3.netlify.app/)
+
+---
+
+### Características
+
+- Calendario de Adviento interactivo  
+- Presentación de proyectos personales y profesionales  
+- Diseño responsivo con React y Tailwind CSS  
+- Formulario de contacto funcional  
+- Integración con APIs externas  
+
+---
+
+### Secciones
+
+1. **Inicio**  
+   Introducción sobre quién soy y qué hago.
+
+2. **Mis Servicios**  
+   Descripción de los servicios ofrecidos, con énfasis en React JS y Tailwind CSS.
+
+3. **Sobre Mí**  
+   Breve reseña de mis habilidades, especialidades e intereses.
+
+4. **Mis Proyectos**  
+   Portafolio con ejemplos de mis trabajos más recientes y enlaces para explorarlos.
+
+---
+
+### Tecnologías
+
+- **React.js**  
+- **CSS** (Grid/Flexbox, Tailwind CSS)  
+- **JavaScript (ES6+)**  
+- **Firebase**  
+- **APIs** (Externas y propias)
+
+---
+
+### Instalación
+
+1. **Clonar el repositorio**:
+    ```bash
+    git clone https://github.com/[yourusername]/luis-granda-portfolio.git
+    ```
+
+2. **Acceder a la carpeta del proyecto**:
+    ```bash
+    cd luis-granda-portfolio
+    ```
+
+3. **Instalar las dependencias**:
+    ```bash
+    npm install
+    ```
+
+4. **Iniciar el servidor de desarrollo**:
+    ```bash
+    npm start
+    ```
+
+5. La aplicación estará disponible en [http://localhost:3000](http://localhost:3000)
+
+---
+
+### Contacto
+
+Para consultas u oportunidades, comunícate por correo electrónico a **lgrandab@gmail.com** o a través de los enlaces de redes sociales en el pie de página del sitio.
+
+  
