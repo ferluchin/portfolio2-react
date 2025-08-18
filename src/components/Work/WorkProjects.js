@@ -67,7 +67,7 @@ function Projects() {
                 </a>
 
                 {/* <!-- Portfolio item ioet landing page --> */}
-                <a
+                {/* <a
                     href="https://www.ioet.com/"
                     className="portfolio__item"
                     target="_blank"
@@ -81,7 +81,7 @@ function Projects() {
                         />
                         <h3 className="hover-text">Landing Page IOET</h3>
                     </div>
-                </a>
+                </a> */}
             </div>
             <br />
         </div>
