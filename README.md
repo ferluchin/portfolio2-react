@@ -4,18 +4,18 @@
 
 A personal portfolio built with React showcasing my skills, services, and recent projects. It features a responsive design, a functional contact form, and integration with external APIs to highlight full-stack capabilities.
 
-**🚀 Live Demo**  
+**🚀 Live Demo**
 [Visit live site](https://lfgranda3.netlify.app/)
 
 ---
 
 ### ✨ Features
 
-- 🗂️ Showcase of personal and professional projects  
-- 📱 Responsive design using React and Tailwind CSS  
-- 📬 Functional contact form  
-- 🔗 Integration with external APIs  
-- 📆 Interactive Advent Calendar (highlighted in ES section)  
+- 🗂️ Showcase of personal and professional projects
+- 📱 Responsive design using React and Tailwind CSS
+- 📬 Functional contact form
+- 🔗 Integration with external APIs
+- 📆 Interactive Advent Calendar (highlighted in ES section)
 
 ---
 
@@ -30,10 +30,10 @@ A personal portfolio built with React showcasing my skills, services, and recent
 
 ### 🛠️ Technologies
 
-- ⚛️ **React.js**  
-- 🎨 **CSS** (Grid/Flexbox, Tailwind CSS)  
-- 💛 **JavaScript (ES6+)**  
-- 🔥 **Firebase**  
+- ⚛️ **React.js**
+- 🎨 **CSS** (Grid/Flexbox, Tailwind CSS)
+- 💛 **JavaScript (ES6+)**
+- 🔥 **Firebase**
 - 🌐 **APIs** (External & custom)
 
 ---
@@ -41,21 +41,21 @@ A personal portfolio built with React showcasing my skills, services, and recent
 ### ⚙️ Installation & Setup
 
 1. ⬇️ Clone repository:
-    ```bash
-    git clone https://github.com/[yourusername]/luis-granda-portfolio.git
-    ```
+   ```bash
+   git clone https://github.com/[yourusername]/luis-granda-portfolio.git
+   ```
 2. 📂 Enter folder:
-    ```bash
-    cd luis-granda-portfolio
-    ```
+   ```bash
+   cd luis-granda-portfolio
+   ```
 3. 📦 Install dependencies:
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 4. ▶️ Start dev server:
-    ```bash
-    npm start
-    ```
+   ```bash
+   npm start
+   ```
 5. 🌍 Open http://localhost:3000
 
 ---
@@ -70,58 +70,58 @@ For inquiries: **lgrandab@gmail.com** or social links in footer.
 
 Un portafolio personal creado con React que muestra mis habilidades, servicios y proyectos recientes. Incluye un diseño responsivo, un formulario de contacto funcional e integración con APIs externas para demostrar capacidades full‑stack.
 
-**🚀 Demo en Vivo**  
+**🚀 Demo en Vivo**
 [Visitar sitio en vivo](https://lfgranda3.netlify.app/)
 
 ---
 
 ### ✨ Características
 
-- 📆 Calendario de Adviento interactivo  
-- 🗂️ Proyectos personales y profesionales  
-- 📱 Diseño responsivo (React + Tailwind CSS)  
-- 📬 Formulario de contacto funcional  
-- 🔗 Integración con APIs externas  
+- 📆 Calendario de Adviento interactivo
+- 🗂️ Proyectos personales y profesionales
+- 📱 Diseño responsivo (React + Tailwind CSS)
+- 📬 Formulario de contacto funcional
+- 🔗 Integración con APIs externas
 
 ---
 
 ### 🧭 Secciones
 
-1. 🏠 **Inicio** – Introducción general.  
-2. 🛠️ **Mis Servicios** – Enfoque en React JS y Tailwind.  
-3. 👤 **Sobre Mí** – Habilidades e intereses.  
-4. 🚧 **Mis Proyectos** – Ejemplos con enlaces.  
+1. 🏠 **Inicio** – Introducción general.
+2. 🛠️ **Mis Servicios** – Enfoque en React JS y Tailwind.
+3. 👤 **Sobre Mí** – Habilidades e intereses.
+4. 🚧 **Mis Proyectos** – Ejemplos con enlaces.
 
 ---
 
 ### 🛠️ Tecnologías
 
-- ⚛️ **React.js**  
-- 🎨 **CSS** (Grid/Flexbox, Tailwind CSS)  
-- 💛 **JavaScript (ES6+)**  
-- 🔥 **Firebase**  
-- 🌐 **APIs** (Externas y propias)  
+- ⚛️ **React.js**
+- 🎨 **CSS** (Grid/Flexbox, Tailwind CSS)
+- 💛 **JavaScript (ES6+)**
+- 🔥 **Firebase**
+- 🌐 **APIs** (Externas y propias)
 
 ---
 
 ### ⚙️ Instalación
 
 1. ⬇️ Clonar repositorio:
-    ```bash
-    git clone https://github.com/[yourusername]/luis-granda-portfolio.git
-    ```
+   ```bash
+   git clone https://github.com/[yourusername]/luis-granda-portfolio.git
+   ```
 2. 📂 Acceder a la carpeta:
-    ```bash
-    cd luis-granda-portfolio
-    ```
+   ```bash
+   cd luis-granda-portfolio
+   ```
 3. 📦 Instalar dependencias:
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 4. ▶️ Iniciar servidor:
-    ```bash
-    npm start
-    ```
+   ```bash
+   npm start
+   ```
 5. 🌍 Abrir http://localhost:3000
 
 ---
@@ -133,6 +133,7 @@ Consultas: **lgrandab@gmail.com** o redes en el footer.
 ---
 
 ### 💡 Next Improvements (Ideas / Ideas Futuras)
+
 - ♿ Accesibilidad (alt, roles, contraste, focus visible)
 - 🌓 Modo oscuro automático (prefers-color-scheme)
 - 🧩 Internacionalización real (toggle EN/ES)
@@ -143,8 +144,3 @@ Consultas: **lgrandab@gmail.com** o redes en el footer.
 - 🧪 Pruebas adicionales (snapshot + integración básica)
 - 🔍 SEO (meta OG, Twitter Cards, sitemap, schema JSON-LD)
 - 🔐 Seguridad / encabezados y sanitización en formularios
-
----
-
-> ✨ README mejorado con emojis para hacerlo más visual y fácil de escanear.
-
